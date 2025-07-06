@@ -16,3 +16,5 @@ This project uses machine learning to detect early signs of sales decline in med
 ## Setup
 ```bash
 pip install -r requirements.txt
+
+![Dashboard](outputs/dashboard_example.png)
