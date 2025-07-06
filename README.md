@@ -10,11 +10,10 @@ This project uses machine learning to detect early signs of sales decline in med
 
 ## Project Structure
 - `notebooks/`: Jupyter notebooks for EDA and model training
-- `outputs/`: Charts and saved models
-- `powerbi/`: Power BI dashboards
+- `outputs/`: PowerBI dashboard, ppt, examples
 
 ## Setup
-```bash
 pip install -r requirements.txt
 
+## Dashboard
 ![Dashboard](outputs/dashboard_example.png)
